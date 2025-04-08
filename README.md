@@ -42,19 +42,6 @@ We developed DispatchAI using a comprehensive tech stack:
 - Developed a custom 911 call dataset for training
 - Integrated emotion detection to provide more empathetic responses
 
-## Intel Dev Cloud Hackathon Submission
-
-### Use of Intel Hardware
-We fully utilized the Intel Tiber Developer Cloud for our project development and demonstration:
-- Leveraged IDC Jupyter Notebooks throughout the development process
-- Conducted a live demonstration to the judges directly on the Intel Developer Cloud platform
-
-### Intel AI Tools/Libraries
-We extensively integrated Intel's AI tools, particularly IPEX, to optimize our project:
-- Utilized Intel® Extension for PyTorch (IPEX) for model optimization
-- Achieved a remarkable reduction in inference time from 2 minutes 53 seconds to less than 10 seconds
-- This represents a 80% decrease in processing time, showcasing the power of Intel's AI tools
-
 ### Innovation
 Our project breaks new ground in emergency response technology:
 - Developed the first empathetic, AI-powered dispatcher agent
@@ -79,14 +66,6 @@ DispatchAI addresses a critical need in emergency services:
 - Targets the 82% of understaffed call centers
 - Aims to reduce wait times in critical situations (e.g., Oakland's 1+ minute 911 wait times)
 - Potential to save lives by ensuring every emergency call is answered promptly
-
-### Bonus Points
-- Open-sourced our fine-tuned LLM on HuggingFace with a complete model card
-  (https://huggingface.co/spikecodes/ai-911-operator)
-  - And published the training dataset: https://huggingface.co/datasets/spikecodes/911-call-transcripts
-- Submitted to the Powered By Intel LLM leaderboard (https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
-- Promoted the project on Twitter (X) using #HackwithIntel
-  (https://x.com/spikecodes/status/1804826856354725941)
 
 ## What we learned
 - How to integrate multiple technologies to create a cohesive, functional system
